@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+.glass-toast{
+  backdrop-filter: blur(20px)!important;
+  background: rgba(255,255,255,.08)!important;
+  border: 1px solid rgba(255,255,255,.15)!important;
+  box-shadow: 0 8px 32px rgba(0,0,0,.25)!important;
+  color: #fff!important;
+}
+
+.Toastify__progress-bar{
+  background: rgba(255,255,255,.6)!important;
+}
+
+.Toastify__close-button{
+  color: #fff!important;
+}
+
+.light .glass-toast{
+  background: rgba(255,255,255,.4)!important;
+  border: 1px solid rgba(255,255,255,.3)!important;
+  color: #111!important;
+}
