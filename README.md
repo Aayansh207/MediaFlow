@@ -18,7 +18,7 @@
 ### 🌙 Dark Mode
 
 <p align="center">
-  <img src="./Screenshots/Dark-mode.png" alt="MediaFlow Dark Mode" width="90%">
+  <img src="./Screenshots/Dark-Mode.png" alt="MediaFlow Dark Mode" width="90%">
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ### ☀️ Light Mode
 
 <p align="center">
-  <img src="./Screenshots/Light-mode.png" alt="MediaFlow Light Mode" width="90%">
+  <img src="./Screenshots/Light-Mode.png" alt="MediaFlow Light Mode" width="90%">
 </p>
 
 ---
